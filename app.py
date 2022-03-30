@@ -12,7 +12,7 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
 
 ########### Define a few variables ######
 
-tabtitle = 'Virginia Counties'
+tabtitle = 'New York Counties'
 sourceurl = 'https://www.kaggle.com/muonneutrino/us-census-demographic-data'
 githublink = 'https://github.com/boat-33/305-virginia-census-data'
 varlist=['TotalPop', 'Men', 'Women', 'Hispanic',
